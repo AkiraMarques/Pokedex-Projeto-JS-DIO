@@ -227,7 +227,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin: .25rem 0;
-    font-size: .625rem;
+    font-size: 1rem;
 }
 
 .grid-card .type {
